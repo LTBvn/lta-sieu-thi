@@ -1,0 +1,14 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="lettuceGrad" cx="40%" cy="40%">
+      <stop offset="0%" style="stop-color:#6eca00;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3d7a00;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  <ellipse cx="100" cy="100" rx="70" ry="75" fill="url(#lettuceGrad)"/>
+  <path d="M 50 70 Q 40 80 45 95" stroke="#2d5016" stroke-width="2" fill="none"/>
+  <path d="M 150 70 Q 160 80 155 95" stroke="#2d5016" stroke-width="2" fill="none"/>
+  <path d="M 60 110 Q 50 120 60 130" stroke="#2d5016" stroke-width="2" fill="none"/>
+  <path d="M 140 110 Q 150 120 140 130" stroke="#2d5016" stroke-width="2" fill="none"/>
+  <ellipse cx="100" cy="80" rx="45" ry="35" fill="#7fde21" opacity="0.6"/>
+</svg>

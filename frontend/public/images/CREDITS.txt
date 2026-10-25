@@ -1,0 +1,81 @@
+Nguồn ảnh: Wikimedia Commons / Wikipedia (giấy phép CC BY-SA hoặc tương đương).
+Trang nguồn của từng ảnh gốc:
+ca-chua.jpg	https://commons.wikimedia.org/wiki/File:Tomato_je.jpg
+ca-rot.jpg	https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg
+xa-lach.jpg	https://commons.wikimedia.org/wiki/File:Iceberg_lettuce_in_SB.jpg
+bap-cai.jpg	https://commons.wikimedia.org/wiki/File:Cabbage_and_cross_section_on_white.jpg
+cai-thia.jpg	https://commons.wikimedia.org/wiki/File:Bok_Choy_(49553125456).jpg
+rau-muong.jpg	https://commons.wikimedia.org/wiki/File:N_Ipoa_D1600.JPG
+bi-do.jpg	https://commons.wikimedia.org/wiki/File:FrenchMarketPumpkinsB.jpg
+khoai-tay.jpg	https://commons.wikimedia.org/wiki/File:Patates.jpg
+hanh-tay.jpg	https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg
+dua-leo.jpg	https://commons.wikimedia.org/wiki/File:ARS_cucumber.jpg
+bong-cai.jpg	https://commons.wikimedia.org/wiki/File:Broccoli_and_cross_section_edit.jpg
+ot-chuong.jpg	https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg
+nam-kim-cham.jpg	https://commons.wikimedia.org/wiki/File:Flammulina_velutipes_(Enokitake,_winter_mushroom).jpg
+toi.jpg	https://commons.wikimedia.org/wiki/File:Allium_sativum_Woodwill_1793.jpg
+gung.jpg	https://commons.wikimedia.org/wiki/File:Koeh-146-no_text.jpg
+tao.jpg	https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg
+chuoi.jpg	https://commons.wikimedia.org/wiki/File:Bananavarieties.jpg
+nho.jpg	https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg
+dau-tay.jpg	https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_×_ananassa)_single2.jpg
+xoai.jpg	https://commons.wikimedia.org/wiki/File:Mangos_-_single_and_halved.jpg
+thanh-long.jpg	https://commons.wikimedia.org/wiki/File:Pitaya_cross_section_ed2.jpg
+cam.jpg	https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg
+sau-rieng.jpg	https://commons.wikimedia.org/wiki/File:Durian_in_black.jpg
+dua-hau.jpg	https://commons.wikimedia.org/wiki/File:Taiwan_2009_Tainan_City_Organic_Farm_Watermelon_FRD_7962.jpg
+bo.jpg	https://commons.wikimedia.org/wiki/File:Persea_americana_fruit_2.JPG
+mang-cut.jpg	https://commons.wikimedia.org/wiki/File:Berthe_Hoola_van_Nooten48.jpg
+vai.jpg	https://commons.wikimedia.org/wiki/File:Litchi_chinensis_fruits.JPG
+thit-bo.jpg	https://commons.wikimedia.org/wiki/File:Standing-rib-roast.jpg
+ba-chi.jpg	https://commons.wikimedia.org/wiki/File:Schweinebauch-2.jpg
+thit-ga.jpg	https://commons.wikimedia.org/wiki/File:Chickens_in_market.jpg
+suon-heo.jpg	https://commons.wikimedia.org/wiki/File:Spareribs_20160506_182617113.jpg
+trung-ga.jpg	https://commons.wikimedia.org/wiki/File:Huevo_frito.jpg
+ca-hoi.jpg	https://commons.wikimedia.org/wiki/File:Sashimi_-_Maguro_Restaurant,_Bangna,_Bangkok_(44856596864).jpg
+tom.jpg	https://commons.wikimedia.org/wiki/File:Spicy_fried_King_Prawns.jpg
+muc.jpg	https://commons.wikimedia.org/wiki/File:Babbo-_Squid_Ink_pasta_with_green_chilis,_rock_shrimp_and_guanciale.jpg
+cua.jpg	https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_10696_Mud_crabs_are_caught_measured_tagged_and_released_as_part_of_the_research_into_the_effectiveness_of_green_zones_in_Moreton_Bay.jpg
+ca-basa.jpg	https://commons.wikimedia.org/wiki/File:Basa_Head.jpg
+sua-tuoi.jpg	https://commons.wikimedia.org/wiki/File:Glass_of_Milk_(33657535532).jpg
+sua-chua.jpg	https://commons.wikimedia.org/wiki/File:Joghurt.jpg
+pho-mai.jpg	https://commons.wikimedia.org/wiki/File:Cheese_platter.jpg
+bo-lat.jpg	https://commons.wikimedia.org/wiki/File:Švédský_koláč_naruby_904_(cropped).JPG
+gao.jpg	https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg
+nuoc-mam.jpg	https://commons.wikimedia.org/wiki/File:Sauce_de_poisson.jpg
+mi-goi.jpg	https://commons.wikimedia.org/wiki/File:Mama_instant_noodle_block.jpg
+dau-hu.jpg	https://commons.wikimedia.org/wiki/File:Japanese_SilkyTofu_(Kinugoshi_Tofu).JPG
+bun.jpg	https://commons.wikimedia.org/wiki/File:Rice_vermicelli.jpg
+dau-an.jpg	https://commons.wikimedia.org/wiki/File:Olive_oil_from_Oneglia.jpg
+ca-phe.jpg	https://commons.wikimedia.org/wiki/File:Roasted_coffee_beans.jpg
+nuoc-dua.jpg	https://commons.wikimedia.org/wiki/File:Young_Coconut_Drink.jpg
+mon-canh-chua.jpg	https://commons.wikimedia.org/wiki/File:Canhchua2.jpg
+mon-pho.jpg	https://commons.wikimedia.org/wiki/File:Bowl_of_Meatball_pho.jpg
+mon-bo-luc-lac.jpg	https://commons.wikimedia.org/wiki/File:Product_Shots_of_Food-Bo_Luc_Lac.jpg
+mon-com-tam.jpg	https://commons.wikimedia.org/wiki/File:Cơm_Tấm,_Da_Nang,_Vietnam.jpg
+mon-goi-cuon.jpg	https://commons.wikimedia.org/wiki/File:Homemade_spring_rolls_(7010969349).jpg
+cho-ben-thanh.jpg	https://commons.wikimedia.org/wiki/File:Ben_Thanh,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG
+quay-rau.jpg	https://commons.wikimedia.org/wiki/File:Gourock_greengrocers_ext.jpg
+sieu-thi.jpg	https://commons.wikimedia.org/wiki/File:Stop&Shop.jpg
+ngheu.jpg	https://commons.wikimedia.org/wiki/File:Meretrix_lyrata_open.jpg
+tra-xanh.jpg	https://commons.wikimedia.org/wiki/File:Green_tea_3_appearances.jpg
+mon-thit-kho.jpg	https://commons.wikimedia.org/wiki/File:Caramelized_Pork_and_Eggs.jpg
+cho-truyen-thong.jpg	https://commons.wikimedia.org/wiki/File:WetmarketHK.jpg
+mon-banh-mi.png	https://commons.wikimedia.org/wiki/File:Bánh_mì_thịt_nướng.png
+mon-bun-cha.jpg	https://commons.wikimedia.org/wiki/File:Bún_chả_Vietnamese_food.jpg
+--- Ảnh thay thế (tìm trên Commons):
+products/chuoi.jpg  File:Abundant Fresh Bananas Displayed.jpg
+products/gung.jpg  File:Ginger Root (179871501).jpeg
+products/mang-cut.jpg  File:Mangosteen-opened.jpg
+products/muc.jpg  File:Squid caught by local fishermen from Pamboang Village.jpg
+products/nam-trang.jpg  File:Enoki mushrooms (50313211173).jpg
+products/thit-ga.jpg  File:Raw chicken drumsticks (3312851753).jpg
+products/toi.jpg  File:Garlic bulbs and cloves.jpg
+products/trung-ga.jpg  File:Brown chicken eggs (1).jpg
+products/xa-lach.jpg  File:Lettuce in a stack.jpg
+products/dua-hau.jpg  File:Watermelon slice, May 2024.jpg
+products/dua-leo.jpg  File:Cucumber BNC.jpg
+products/suon-heo.jpg  File:Raw pork spareribs.jpg
+banners/cho-sai-gon.jpg  File:Saigon market vegetables.JPG
+banners/sap-rau.jpg  File:A vegetable stall of Trung Kính Hạ Village 10-12-2025.jpg
+banners/hai-san.jpg  File:Raw seafood (1).jpg

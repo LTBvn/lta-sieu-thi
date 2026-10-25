@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120">
+  <rect width="100%" height="100%" fill="#fff9f0" rx="8"/>
+  <circle cx="50" cy="60" r="28" fill="#ffb3b3" />
+  <circle cx="90" cy="40" r="22" fill="#ffd7a6" />
+  <circle cx="130" cy="70" r="20" fill="#ffe08a" />
+  <text x="100" y="110" font-size="12" text-anchor="middle" fill="#666">Fruits</text>
+</svg>

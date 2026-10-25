@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+# Dữ liệu thật: database (mật khẩu đã băm, đơn hàng, SĐT khách), ảnh tải lên, khóa JWT
+backend/data/
+
+# Bí mật: mã Google/Facebook, mật khẩu admin
+.env
+.env.*
+!.env.example
+
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
